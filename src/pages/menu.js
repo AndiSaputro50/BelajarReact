@@ -11,7 +11,7 @@ function Menu() {
             method: "GET",
             redirect: "follow",
         };
-        fetch("http://localhost:3030/products", requestOptions)
+        fetch("http://localhost:3030/menu", requestOptions)
         .then((response) => response.json())
         .then((result) => setBarang(result))
         .catch((error) => console.log("error", error));
