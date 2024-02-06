@@ -1,0 +1,141 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+
+  to {
+    transform: rotate(360deg);
+  }
+
+
+}
+
+.table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.table th,
+.table td {
+  border: 2px solid #6b6767;
+  padding: 6px;
+  text-align: left;
+}
+
+.table th {
+  background-color: #dddddd;
+}
+
+.table tr:nth-child(even) {
+  background-color: #bebaba;
+}
+
+.table tr:hover {
+  background-color: #dddddd;
+}
+
+.NavStyle {
+  background-color: rgb(202, 144, 67);
+  /* font-variant: unset; */
+}
+
+img {
+  border-radius: 26px;
+  padding: 3px;
+}
+
+.daftarkopi {
+  font-family: fantasy;
+}
+
+.welcome {
+  font-family: 'Poopins';
+  font-weight: bolder;
+  color: rgb(202, 144, 67);
+}
+
+
+/* style e-commerce */
+
+.navpage {
+  font-family: sans-serif;
+}
+
+.paragraf {
+  font-size: x-large;
+  font-family: 'Times New Roman', Times, serif;
+  color: #666;
+  /* Warna teks untuk paragraf */
+}
+
+.img-fluid {
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
+  -webkit-border-radius: 8px;
+  -moz-border-radius: 8px;
+  -ms-border-radius: 8px;
+  -o-border-radius: 8px;
+}
+
+/* Home.css */
+
+.carousel-img {
+  height: 500px;
+  object-fit: cover;
+  transition: opacity 1s ease;
+  -webkit-transition: opacity 1s ease;
+  -moz-transition: opacity 1s ease;
+  -ms-transition: opacity 1s ease;
+  -o-transition: opacity 1s ease;
+}
+
+.carousel-item {
+  transition: opacity 1s ease;
+  -webkit-transition: opacity 1s ease;
+  -moz-transition: opacity 1s ease;
+  -ms-transition: opacity 1s ease;
+  -o-transition: opacity 1s ease;
+}
+
+.card {
+  transition: transform 0.8s ease;
+  -webkit-transition: transform 0.8s ease;
+  -moz-transition: transform 0.8s ease;
+  -ms-transition: transform 0.8s ease;
+  -o-transition: transform 0.8s ease;
+}
+
+.card:hover {
+  transform: scale(1.05);
+}

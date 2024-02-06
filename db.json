@@ -1,0 +1,40 @@
+{
+  "products": [
+    {
+      "nama": "Kopi Arabika",
+      "image": "https://www.specialtycoffee.co.id/wp-content/uploads/2014/01/kaffee_arabica1.jpg",
+      "detail": "Kopi Arabika dikenal dengan cita rasa yang khas dan aroma yang harum. Keistimewaannya terletak pada tingkat keasaman yang seimbang dan kompleksitas rasanya.",
+      "harga": 95000
+    },
+    {
+      "nama": "Kopi Robusta",
+      "image": "https://rimbakita.com/wp-content/uploads/2019/03/biji-kopi-robusta.jpg",
+      "detail": "Kopi Robusta memiliki rasa yang lebih kuat dan pahit daripada Arabika. Keistimewaannya terletak pada kandungan kafein yang tinggi dan tekstur yang kental.",
+      "harga": 80000
+    },
+    {
+      "nama": "Kopi Luwak",
+      "image": "https://www.blibli.com/friends-backend/wp-content/uploads/2023/02/B200136-cover-manfaat-kopi-luwak-scaled.jpg",
+      "detail": "Kopi Toraja dikenal dengan rasa yang kaya dan kompleks serta aroma yang kuat. Keistimewaannya terletak pada proses pengolahan yang tradisional dan kualitas biji kopi yang unggul.",
+      "harga": 150000
+    },
+    {
+      "nama": "Kopi Toraja",
+      "image": "https://thumb.viva.id/intipseleb/1265x711/2023/05/08/645919939d209-kopi.jpg",
+      "detail": "Kopi Arabika dikenal dengan cita rasa yang khas dan aroma yang harum. Keistimewaannya terletak pada tingkat keasaman yang seimbang dan kompleksitas rasanya.",
+      "harga": 120000
+    },
+    {
+      "nama": "Kopi Liberika",
+      "image": "https://cdn0-production-images-kly.akamaized.net/jpGN7v1uiH82ZTCOVHwwH8ugtbg=/800x450/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/4258081/original/005590100_1670825205-coffee-6939520__340.jpg",
+      "detail": "Kopi Liberika memiliki cita rasa yang unik dan berbeda dari jenis kopi lainnya. Keistimewaannya terletak pada bentuk buah kopi yang berbeda dan profil rasa yang beragam.",
+      "harga": 140000
+    },
+    {
+      "nama": "Kopi Hitam",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAhJbQuRKnXWmqqGJHFfIKchk9LrhhPW9t3A&usqp=CAU",
+      "detail": "Kopi Hitam adalah minuman kopi yang disajikan tanpa tambahan susu atau gula. Keistimewaannya terletak pada kekuatan rasa dan aroma khas kopi yang murni.",
+      "harga": 60000
+    }
+  ]
+}
